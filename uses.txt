@@ -1,0 +1,11 @@
+bcryprt -Normal password ko hash kr k safe krta h
+cloudianry- saves images in cloud and videos
+cookie parser- request.cookies m s cookie acess krne ko
+cors-fetching because server and frontend are at diffrent loactions
+datauri-to acess url using multer
+.env-variable to protect
+jsonwebtoken- for login token
+multer-middleware to get acess of file 
+nodecron-fix time p koi function call hoga 
+razorpay payments
+validator- to verify email
