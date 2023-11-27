@@ -3,7 +3,8 @@ import { subscriptionReducer, updateprofile, userReducer } from "./reducers/user
 import { courseReducer } from "./reducers/courseReducer";
 import { adminReducer } from "./reducers/adminReducer";
 
-export const server="https://ilearn-rer6.onrender.com/api/v1";
+// export const server="http://localhost:5000/api/v1";
+export const server="https://ilearn-n8b4.onrender.com/api/v1"
 
 
 const store= configureStore({

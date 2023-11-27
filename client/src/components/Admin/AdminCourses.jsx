@@ -114,7 +114,7 @@ function Row({item , deleteHandler , courseHandler , loading}){
       </Td>
       <Td>{item.title}</Td>
       <Td>{item.category}</Td>
-      <Td>{item.creator}</Td>
+      <Td>{item.createdBy}</Td>
       <Td isNumeric>{item.views}</Td>
       <Td>{item.numOfVideos}</Td>
      

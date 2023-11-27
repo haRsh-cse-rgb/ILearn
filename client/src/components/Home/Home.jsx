@@ -45,7 +45,7 @@ const Home = () => {
         <HStack alignItems={"center"} justifyContent={['center', 'space-evenly']} marginTop={['4', '8']}>
           <Image
             cursor="pointer"
-            boxSize="100px"
+            boxSize={['40px' , '100px']}
             objectFit="contain"
             src={facebook}
             _hover={{ transform: "translateY(-10px)" }}
@@ -53,7 +53,7 @@ const Home = () => {
           />
           <Image
             cursor="pointer"
-            boxSize="100px"
+            boxSize={['40px' , '100px']}
             objectFit="contain"
             src={apple}
             _hover={{ transform: "translateY(-10px)" }}
@@ -61,7 +61,7 @@ const Home = () => {
           />
           <Image
             cursor="pointer"
-            boxSize="150px"
+            boxSize={['40px' , '100px']}
             objectFit="contain"
             src={amazon}
             _hover={{ transform: "translateY(-10px)" }}
@@ -69,7 +69,7 @@ const Home = () => {
           />
           <Image
             cursor="pointer"
-            boxSize="150px"
+            boxSize={['40px' , '100px']}
             objectFit="contain"
             src={netflix}
             _hover={{ transform: "translateY(-10px)" }}
@@ -77,7 +77,7 @@ const Home = () => {
           />
           <Image
             cursor="pointer"
-            boxSize="150px"
+            boxSize={['40px' , '100px']}
             objectFit="contain"
             src={google}
             _hover={{ transform: "translateY(-10px)" }}
